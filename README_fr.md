@@ -1,5 +1,7 @@
 # Brick Breaker Game
 
+![Brick Breaker Game](java-brick-breaker-game.png)
+
 Un jeu classique de casse-briques développé en Java.
 
 ## Description

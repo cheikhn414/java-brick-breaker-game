@@ -1,5 +1,7 @@
 # Brick Breaker - Java Brick Breaking Game
 
+![Brick Breaker Game](java-brick-breaker-game.png)
+
 A complete brick-breaking game developed in Java with Swing, offering a smooth and addictive gaming experience.
 
 ## Features
